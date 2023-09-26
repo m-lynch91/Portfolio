@@ -11,7 +11,7 @@ Purpose:    copies .bat files from a python code repo over to user home director
 Author:     Mike Lynch
 '''
 
-pythonDir = Path('../PythonLearning')
+pythonDir = Path('C:\\Users\\miche\\source\\repos\\PythonRepo\\PythonLearning')
 scriptDir = Path.home()
 
 # lists all the .bat files in the python-repo

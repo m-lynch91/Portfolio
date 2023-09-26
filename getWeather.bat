@@ -1,2 +1,2 @@
-@python.exe C:\Users\miche\source\repos\PythonRepo\Python-Repo\getWeather.py %*
+@python.exe C:\Users\miche\source\repos\PythonRepo\PythonLearning\getWeather.py %*
 @pause
